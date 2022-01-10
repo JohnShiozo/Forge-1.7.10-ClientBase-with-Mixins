@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.joaoshiozo.examplemod.core.injection.mixins",
+  "refmap": "mixins.examplemod.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinMinecraft"
+  ]
+}
