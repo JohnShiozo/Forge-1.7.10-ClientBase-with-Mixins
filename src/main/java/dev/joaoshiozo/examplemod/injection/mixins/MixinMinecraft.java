@@ -1,4 +1,4 @@
-package com.joaoshiozo.examplemod.core.injection.mixins;
+package dev.joaoshiozo.examplemod.injection.mixins;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiScreen;
